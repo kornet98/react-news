@@ -1,0 +1,24 @@
+.container{
+  width: 1110px;
+  margin: 0 auto;
+}
+
+.blue{
+  color: #004FEC;
+}
+
+.logo{
+  font-weight: bold;
+  font-size: 25px;
+  margin: 0;
+}
+
+.page-title{
+	width: 452px;
+	font-weight: normal;
+	margin-bottom: 75px;
+}
+
+
+
+
